@@ -29,26 +29,26 @@
 ## 💳 Github Profile Summary Card
 <p align="center">
 	
-  <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamchauhan29&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamchauhan29&theme=vue"/>
+  <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshittomer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshittomer&theme=vue"/>
 </p> 
 
 ## 📟 GitHub Stats
 <p align="center">
 	
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivamchauhan29&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchauhan29&theme=vue" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshittomer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshittomer&theme=vue" />
 </p>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivamchauhan2310_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamchauhan29/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shivamchauhan29)
-[![Twitter](https://img.shields.io/twitter/follow/shivamchauhan29?logo=Twitter&style=for-the-badge)](https://twitter.com/shivamchauhan29)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshittomer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshittomer/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshittomer)
+[![Twitter](https://img.shields.io/twitter/follow/harshittomer?logo=Twitter&style=for-the-badge)](https://twitter.com/harshittomer)
 
 
 
 
 <strong>Holopin badges</strong>
 
-[![@shivamchauhan29's Holopin board](https://holopin.me/@shivamchauhan29)](https://holopin.io/@shivamchauhan29)
+[![@harshittomer's Holopin board](https://holopin.me/@harshittomer)](https://holopin.io/@harshittomer)
